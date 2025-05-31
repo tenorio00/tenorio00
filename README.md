@@ -7,7 +7,7 @@
 
 ## &nbsp;My Stack
 
-<img src="https://skillicons.dev/icons?i=vscode,html,css,cs,ts,aws,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=aws,py,vscode,html,css,git,github&theme=dark" />
 
 
 
